@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="xiaoy.Excel.AppConfig" BaseTypeListCollapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAACIAIAAAQAAAAAAAAIEAAAAAABAAgQAA=</HashCode>
+      <FileName>AppConfig.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="xiaoy.Excel.AppConfigKey">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAEAAAAAAAAAAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>AppConfigKey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xiaoy.Excel.ExcelFile">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAQCABBEAAIQgAAIAAAAIAgAAAAACAEABBAAAAAAAA=</HashCode>
+      <FileName>ExcelFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xiaoy.Excel.ExcelVersion">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>ExcelVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xiaoy.Excel.HDRType">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HDRType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
